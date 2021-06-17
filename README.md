@@ -8,4 +8,4 @@ This is a telegram bot that is used to connect with Binance to get some Price, t
 
 and you are ready to go 
 
-(the bot will be updated soon so stay stay tuned) 
+(the bot will be updated soon so stay tuned) 
